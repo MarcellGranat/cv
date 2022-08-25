@@ -137,8 +137,6 @@ Budapest
 
 Thesis: Empirical analysis of Hungarian Household Consumption: Application of Multivariate Adaptive Regression Splines
 
-Grade: 5
-
 ### Corvinus University of Budapest
 
 BSc in Applied Economics
@@ -148,8 +146,6 @@ Budapest
 2020
 
 Thesis: The relationship among fertility rate, gross output per capita and unemployment (panel models, VAR models)
-
-Grade: 5
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
@@ -182,4 +178,4 @@ Corvinus
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-...
+**...**
