@@ -37,7 +37,6 @@ Skills {#skills}
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-
 Last updated on `r Sys.Date()`.
 
 
@@ -146,7 +145,7 @@ BSc in Applied Economics
 
 Budapest
 
-2022
+2020
 
 Thesis: The relationship among fertility rate, gross output per capita and unemployment (panel models, VAR models)
 
