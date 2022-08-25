@@ -49,7 +49,7 @@ Marcell Granat {#title}
 ### Currently working as a researcher and participating in PhD programme
 
 Motivated and responsible Data Analyst with significant experience in increasing comprehension of
-reports, studies and presentations. Beside my studies at the University I took part actively in research and teaching projects. Thanks to lecturing statistical courses for years, I am confident in any conventional or innovative Data Analysis project, like standard econometrics or natural language processing. Also, I am very proud of my knowledge in R language.
+reports, studies and presentations. Beside my studies at the University I took part actively in research and teaching projects. Thanks to lecturing statistical courses for years, I am confident in any conventional or innovative Data Analysis project, like standard econometrics or natural language processing.
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
