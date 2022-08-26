@@ -48,6 +48,8 @@ Marcell Granat {#title}
 
 ### Currently working as a researcher and participating in PhD programme
 
+
+
 Motivated and responsible Data Analyst with significant experience in increasing comprehension of
 reports, studies and presentations. Beside my studies at the University I took part actively in research and teaching projects. Thanks to lecturing statistical courses for years, I am confident in any conventional or innovative Data Analysis project, like standard econometrics or natural language processing.
 
@@ -107,11 +109,11 @@ Budapest
 
 - Instant data analyses for the Ministry of Innovation.
 - Wrote Shiny (R) app demos.
-- Converted statistical tutorials from SPSS to R language.
+- Converted statistical tutorials from STATA to R language.
 
 
 My job included empirical analysis, managing a financial measure databases (CREFO, ORBIS), and developing related applications (Shiny). Two major projects took place with the contribution of my
-work: Sector 1000 and Inclusive Growth Index.
+work: Sector 1000 (managing and analyzing *interviews* with company managers) and Inclusive Growth Index (*Structural Equations Modelling* and *factor analyzing*).
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -152,7 +154,7 @@ Teaching Experience {data-icon=chalkboard-teacher}
 
 ### Data Analysis
 
-Instructor of R, data visualization and statistics for foreign master Students.
+Instructor of R, data visualization and statistics for foreign master students.
 
 Corvinus
 
