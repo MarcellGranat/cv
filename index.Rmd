@@ -7,55 +7,43 @@ output:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
-#knit: pagedown::chrome_print
+knit: pagedown::chrome_print
 ---
 
-Aside
-================================================================================
-
+# Aside
 
 ![Marcell Granat](GM.jpg)
 
+## Contact Info {#contact}
 
-Contact Info {#contact}
---------------------------------------------------------------------------------
+-   <i class="fa fa-envelope"></i> [E-mail](mailto:granat.marcell@uni-neumann.hu){.email}
+-   <i class="fa fa-globe"></i> [Website](https://marcellgranat.com)
+-   <i class="fa fa-github"></i> [GitHub](https://github.com/marcellgranat)
+-   <i class="fa fa-linkedin"></i> [LinkedIn](www.linkedin.com/in/granatmarcell)
+-   <i class="fa fa-medium"></i> [Medium](https://medium.com/@granatcellmar98)
+-   For more information, please contact me via email.
 
-- <i class="fa fa-envelope"></i> granatcellmar98@gmail.com
-- <i class="fa fa-github"></i> [github.com/marcellgranat](https://github.com/marcellgranat)
-- For more information, please contact me via email.
+## Skills {#skills}
 
+-   Experienced in statistical analysis, econometrics, machine learning, economics and research.
 
-Skills {#skills}
---------------------------------------------------------------------------------
+-   Full experience with **R and Python programming**.
 
-- Experienced in statistical analysis, econometrics, machine learning, economics and research.
+-   Highly skilled in Microsoft Excel, PowerPoint, Excel and VBA
 
-- Full experience with R programming.
-
-- Highly skilled in Microsoft Excel, PowerPoint, Excel and VBA
-
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
+## Disclaimer {#disclaimer}
 
 Last updated on `r Sys.Date()`.
 
+# Main
 
-Main
-================================================================================
-
-Marcell Granat {#title}
---------------------------------------------------------------------------------
+## Marcell Granat {#title}
 
 ### Currently working as a researcher and participating in PhD programme
 
+Motivated and responsible Data Analyst with significant experience in increasing comprehension of reports, studies and presentations. Beside my studies at the University I took part actively in research and teaching projects. Thanks to lecturing statistical courses for years, I am confident in any conventional or innovative Data Analysis project, like standard econometrics or natural language processing.
 
-
-Motivated and responsible Data Analyst with significant experience in increasing comprehension of
-reports, studies and presentations. Beside my studies at the University I took part actively in research and teaching projects. Thanks to lecturing statistical courses for years, I am confident in any conventional or innovative Data Analysis project, like standard econometrics or natural language processing.
-
-Professional Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
-
+## Professional Experience {data-icon="suitcase"}
 
 ### Research and Education Expert (Current position)
 
@@ -63,11 +51,10 @@ Central Bank of Hungary MNB
 
 Budapest
 
-2022 February - 
+2022 February -
 
-
-- Academic research papers in financial econometrics.
-- Took part at national and international conferences.
+-   Academic research papers in financial econometrics.
+-   Took part at national and international conferences.
 
 ### Teaching Assistant (Current position)
 
@@ -75,15 +62,13 @@ John von Neumann University
 
 Kecskemét
 
-2022 \ August \ - 
-
+2022 August -
 
 (part-time)
 
-- Academic research papers in econometrics and statistical modeling.
-- Subject manager of Big Data course
-- Lecturer
-
+-   Academic research papers in econometrics and statistical modeling.
+-   Subject manager of Big Data course
+-   Lecturer
 
 ### Professional Proofreader
 
@@ -95,8 +80,7 @@ Budapest
 
 (part-time)
 
-- Approval and improvement of professional data analyses about current economic topics (e.g. Energy crisis, Tourism)
-
+-   Approval and improvement of professional data analyses about current economic topics (e.g. Energy crisis, Tourism)
 
 ### Data Analyst
 
@@ -106,18 +90,13 @@ Budapest
 
 2021 May - 2022 January
 
+-   Instant data analyses for the Ministry of Innovation.
+-   Wrote Shiny (R) app demos.
+-   Converted statistical tutorials from STATA to R language.
 
-- Instant data analyses for the Ministry of Innovation.
-- Wrote Shiny (R) app demos.
-- Converted statistical tutorials from STATA to R language.
+My job included empirical analysis, managing a financial measure databases (CREFO, ORBIS), and developing related applications (Shiny). Two major projects took place with the contribution of my work: Sector 1000 (managing and analyzing *interviews* with company managers) and Inclusive Growth Index (*Structural Equations Modelling* and *factor analyzing*).
 
-
-My job included empirical analysis, managing a financial measure databases (CREFO, ORBIS), and developing related applications (Shiny). Two major projects took place with the contribution of my
-work: Sector 1000 (managing and analyzing *interviews* with company managers) and Inclusive Growth Index (*Structural Equations Modelling* and *factor analyzing*).
-
-
-Education {data-icon=graduation-cap data-concise=true}
---------------------------------------------------------------------------------
+## Education {data-icon="graduation-cap" data-concise="true"}
 
 ### Eötvös Loránd University
 
@@ -149,12 +128,19 @@ Budapest
 
 Thesis: The relationship among fertility rate, gross output per capita and unemployment (panel models, VAR models)
 
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
+## Teaching Experience {data-icon="chalkboard-teacher"}
+
+### Big Data and Data Visualisation
+
+Lecturing master students for R programming and statics. [Slides](https://marcellgranat.com/big_data) are available.
+
+John von Neumann University
+
+2023
 
 ### Data Analysis
 
-Instructor of R, data visualization and statistics for foreign master students.
+Instructor of R, data visualization and statistics for foreign master students. [Coursebook](https://marcellgranat.github.io/Data-Analysis/) available.
 
 Corvinus
 
@@ -176,8 +162,96 @@ Corvinus
 
 2019-2021
 
+### History and civics 
 
-Research Experience {data-icon=laptop}
---------------------------------------------------------------------------------
+Voluntery teaching high schools students through [Studium Generale](https://www.studiumgenerale.hu/) student organization.
 
-**...**
+Corvinus
+
+2017-2022
+
+## Research Experience {data-icon="laptop"}
+
+### Digitalisation and business performance - focusing on Hungarian manufacturing firms
+
+[Economic Review](http://www.kszemle.hu/tartalom/cikk.php?id=2100)
+
+N/A
+
+2023
+
+### Media Attention to Environmental Issues and ESG Investing
+
+[Financial and Economic Review](https://en-hitelintezetiszemle.mnb.hu/letoltes/fer-21-4-st5-csillag-granat-neszveda.pdf)
+
+N/A
+
+2022
+
+### Expect the unexpected: Did the equity markets anticipate the Russo-Ukrainian war?
+
+[Annual Financial Market Liquidity Conference](https://www.uni-corvinus.hu/ind/afml-conference/?lang=en)
+
+N/A
+
+2022
+
+### Empirical investigation of the recession forecasting ability of European yield curves
+
+[Best paper](https://www.marcellgranat.com/blog/tdk-best-paper/) award at Corvinus Scientific Student Conference.
+
+N/A
+
+2021
+
+## Awards {data-icon="award"}
+
+### Winners of the global data science competition organised by Whiteshield.
+
+Our public [GitHub repository](https://www.marcellgranat.com/blog/whiteshield/) is available.
+
+N/A
+
+2023
+
+### Winners of the data science competition organised by Hungarian Statistical Office.
+
+[TV interview](https://www.marcellgranat.com/blog/statwars/) available.
+
+N/A
+
+2022
+
+### 5x Winner at Corvinus Scientific Student Conference.
+
+Some of the winning papers (others are in publication process in academic journals, thus I did not make them public):
+
+N/A
+
+2018-2022
+
+##### [An Analysis of Customer Reviews of the Airbnb online platform](https://marcellgranat.github.io/airbnb-research/) (English)
+
+
+##### [Empirical investigation of the recession forecasting ability of European yield curves](https://marcellgranat.github.io/yieldcurve/) (Hungarian)
+
+
+
+
+
+### Special award at National Scientific Student Conference
+
+[The trend of fertility rates and the related soci-economic changes in Hungary](https://marcellgranat.github.io/FertilityHUN)
+
+N/A
+
+2021
+
+### Winner of the New Future scienctif research competition (Demography Section) organised by the National Bank of Hungary
+
+[The relationship between the fertility rate and gross output per capita and unemployment](https://marcellgranat.github.io/ujdemografiaiprogram/)
+
+N/A
+
+2020
+
