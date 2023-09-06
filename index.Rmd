@@ -12,28 +12,25 @@ knit: pagedown::chrome_print
 
 # Aside
 
-![Marcell Granat](GM.jpg)
+<!-- ![Marcell Granat](GM.jpg) -->
 
 ## Contact Info {#contact}
 
--   <i class="fa fa-envelope"></i> [E-mail](mailto:granat.marcell@uni-neumann.hu){.email}
+-   <i class="fa fa-envelope"></i> [E-mail](mailto:granat.marcell@nje.hu){.email}
 -   <i class="fa fa-globe"></i> [Website](https://marcellgranat.com)
 -   <i class="fa fa-github"></i> [GitHub](https://github.com/marcellgranat)
 -   <i class="fa fa-linkedin"></i> [LinkedIn](www.linkedin.com/in/granatmarcell)
--   <i class="fa fa-medium"></i> [Medium](https://medium.com/@granatcellmar98)
 -   For more information, please contact me via email.
 
 ## Skills {#skills}
 
 -   Experienced in statistical analysis, econometrics, machine learning, economics and research.
 
--   Full experience with **R and Python programming**.
+-   Full experience with **R and Python programming**. Intermediate level in Julia.
 
--   Highly skilled in Microsoft Excel, PowerPoint, Excel and VBA
+-   Highly skilled in PowerPoint, Excel and VBA
 
 ## Disclaimer {#disclaimer}
-
-Last updated on `r Sys.Date()`.
 
 # Main
 
@@ -54,7 +51,6 @@ Budapest
 2022 February -
 
 -   Academic research papers in financial econometrics.
--   Took part at national and international conferences.
 
 ### Teaching Assistant (Current position)
 
@@ -67,8 +63,9 @@ Kecskemét
 (part-time)
 
 -   Academic research papers in econometrics and statistical modeling.
--   Subject manager of Big Data course
+-   Subject manager of Big Data & Data Visualisation course
 -   Lecturer
+-   TDK (Student Scientific Conference) secretary 
 
 ### Professional Proofreader
 
@@ -132,7 +129,7 @@ Thesis: The relationship among fertility rate, gross output per capita and unemp
 
 ### Big Data and Data Visualisation
 
-Lecturing master students for R programming and statics. [Slides](https://marcellgranat.com/big_data) are available.
+Lecturing master students for R programming and statics. [Website](https://marcellgranat.com/bigdata) are available.
 
 John von Neumann University
 
@@ -172,6 +169,14 @@ Corvinus
 
 ## Research Experience {data-icon="laptop"}
 
+### Expect the unexpected: Did the equity markets anticipate the Russo-Ukrainian war?
+
+[Finance Research Letters](https://www.sciencedirect.com/science/article/pii/S1544612323006736)
+
+N/A
+
+2022
+
 ### Digitalisation and business performance - focusing on Hungarian manufacturing firms
 
 [Economic Review](http://www.kszemle.hu/tartalom/cikk.php?id=2100)
@@ -188,13 +193,6 @@ N/A
 
 2022
 
-### Expect the unexpected: Did the equity markets anticipate the Russo-Ukrainian war?
-
-[Annual Financial Market Liquidity Conference](https://www.uni-corvinus.hu/ind/afml-conference/?lang=en)
-
-N/A
-
-2022
 
 ### Empirical investigation of the recession forecasting ability of European yield curves
 
@@ -235,10 +233,6 @@ N/A
 
 ##### [Empirical investigation of the recession forecasting ability of European yield curves](https://marcellgranat.github.io/yieldcurve/) (Hungarian)
 
-
-
-
-
 ### Special award at National Scientific Student Conference
 
 [The trend of fertility rates and the related soci-economic changes in Hungary](https://marcellgranat.github.io/FertilityHUN)
@@ -254,4 +248,8 @@ N/A
 N/A
 
 2020
+
+##
+
+Last updated on `r Sys.Date()`.
 
