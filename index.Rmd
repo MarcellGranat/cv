@@ -196,7 +196,7 @@ N/A
 
 ### Empirical investigation of the recession forecasting ability of European yield curves
 
-[Best paper](https://www.marcellgranat.com/blog/tdk-best-paper/) award at Corvinus Scientific Student Conference.
+[Best paper](https://www.marcellgranat.com/posts/tdk-best-paper/) award at Corvinus Scientific Student Conference. Currently in press at Financial and Economic Review.
 
 N/A
 
@@ -208,9 +208,18 @@ N/A
 
 Our public [GitHub repository](https://www.marcellgranat.com/blog/whiteshield/) is available.
 
+Dubai
+
+2023
+
+### 2nd place at Quant Challenge organised by Morgan Stanley.
+
+[Essay](https://www.marcellgranat.com/posts/morgan/), [slide](https://www.marcellgranat.com/posts/morgan2/) and [codes](https://github.com/MarcellGranat/MorganStanley-QuantChallenge) are available.
+
 N/A
 
 2023
+
 
 ### Winners of the data science competition organised by Hungarian Statistical Office.
 
