@@ -1,7 +1,7 @@
 ---
 title: "Marcell Granat's resume"
 author: Marcell Granat
-date: "`r Sys.Date()`"
+date: "2025-01-13"
 output:
   pagedown::html_resume:
     # set it to true for a self-contained HTML page but it'll take longer to render
@@ -12,7 +12,7 @@ knit: pagedown::chrome_print
 
 # Aside
 
-![Marcell Granat](GM.jpg)
+<!-- ![Marcell Granat](GM.jpg) -->
 
 ## Contact Info {#contact}
 
@@ -309,5 +309,5 @@ Shanghai
 
 ##
 
-Last updated on `r Sys.Date()`.
+Last updated on 2025-01-13.
 

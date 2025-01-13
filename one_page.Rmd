@@ -1,0 +1,123 @@
+---
+title: "Marcell Granat's resume"
+author: Marcell Granat
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+# Aside
+
+![Marcell Granat](GM.jpg)
+
+## Contact Info {#contact}
+
+-   <i class="fa fa-envelope"></i> [E-mail](mailto:granat.marcell@nje.hu){.email}
+-   <i class="fa fa-globe"></i> [Website](https://marcellgranat.com)
+-   <i class="fa fa-github"></i> [GitHub](https://github.com/marcellgranat)
+-   <i class="fa fa-linkedin"></i> [LinkedIn](www.linkedin.com/in/granatmarcell)
+-   For more information, please contact me via email.
+
+## Skills {#skills}
+
+-   Experienced in statistical analysis, econometrics, machine learning, economics and research.
+
+-   Full experience with **R and Python programming**. Intermediate level in Julia.
+
+-   Highly skilled in PowerPoint, Excel and VBA.
+
+## Disclaimer {#disclaimer}
+
+# Main
+
+## Marcell Granat {#title}
+
+## Professional Experience {data-icon="suitcase"}
+
+### Research and Education Expert (Current position)
+
+Central Bank of Hungary MNB
+
+Budapest
+
+2022 February -
+
+-   Academic research papers in financial econometrics.
+
+### Teaching Assistant (Current position)
+
+John von Neumann University
+
+Kecskemét
+
+2022 August -
+
+(part-time)
+
+-   Academic research papers in econometrics and statistical modelling
+-   Subject manager of Big Data & Data Visualisation course
+-   Lecturer
+-   TDK (Student Scientific Conference) secretary
+
+## Publications {data-icon="laptop"}
+
+### Expect the unexpected: Did the equity markets anticipate the Russo-Ukrainian war?
+
+[Finance Research Letters](https://www.sciencedirect.com/science/article/pii/S1544612323006736)
+
+N/A
+
+2023
+
+
+### Digitalisation and business performance - focusing on Hungarian manufacturing firms
+
+[Economic Review](http://www.kszemle.hu/tartalom/cikk.php?id=2100)
+
+N/A
+
+2023
+
+### Media Attention to Environmental Issues and ESG Investing
+
+[Financial and Economic Review](https://en-hitelintezetiszemle.mnb.hu/letoltes/fer-21-4-st5-csillag-granat-neszveda.pdf)
+
+N/A
+
+2022
+
+
+### Empirical investigation of the recession forecasting ability of European yield curves
+
+[Best paper](https://www.marcellgranat.com/posts/tdk-best-paper/) award at Corvinus Scientific Student Conference. Currently in press at Financial and Economic Review.
+
+N/A
+
+2021
+
+
+## Teaching Experience {data-icon="chalkboard-teacher"}
+
+### Big Data and Data Visualisation
+
+Lecturing master students for R programming and statistics. [Website](https://marcellgranat.com/bigdata) is available.
+
+John von Neumann University
+
+2023
+
+## Education {data-icon="graduation-cap" data-concise="true"}
+
+### Eötvös Loránd University
+
+PhD in Economics
+
+Budapest
+
+2022 -
+
+Research field: Asset pricing and inflation forecast
